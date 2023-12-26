@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hi, I am Dochi, an HKU student. I am trying to record my studying process here.
+Hi, I am Dochi, currently studying in Computer Science Department of HKU.
+
 <!--
 **doshicai/doshicai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
